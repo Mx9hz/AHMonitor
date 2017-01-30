@@ -1,3 +1,2 @@
 # AHWMonitor
-Ressourcen Monitor with Win 10 Toast Notifications and Minimized on windows startup. using OPEN HARDWARE MONITOR dlls (http://openhardwaremonitor.org/)
-
+Ressource Monitor with Windows 10 Toast Notifications and Minimized on windows startup.Sensor reading using OPEN HARDWARE MONITOR dlls (http://openhardwaremonitor.org/)
